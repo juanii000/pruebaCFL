@@ -1,0 +1,19 @@
+{
+  "name": "asdas",
+  "version": "1.0.0",
+  "description": "Aca va a haber codigo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/juanii000/pruebaCFL.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/juanii000/pruebaCFL/issues"
+  },
+  "homepage": "https://github.com/juanii000/pruebaCFL#readme"
+}
