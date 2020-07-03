@@ -1,19 +1,16 @@
 {
-  "name": "asdas",
+  "name": "pruebanpm",
   "version": "1.0.0",
-  "description": "Aca va a haber codigo",
+  "description": "",
   "main": "index.js",
   "scripts": {
+    "papita": "node index.js & node index1.js",
+    "papita2": "node index1.js",
     "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/juanii000/pruebaCFL.git"
   },
   "author": "",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/juanii000/pruebaCFL/issues"
-  },
-  "homepage": "https://github.com/juanii000/pruebaCFL#readme"
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
